@@ -1,5 +1,5 @@
 # Out-Of-Context-Message-Bot
-Ever felt like some discord messages were just way too interesting when taken out of context, and you just had to keep an archive of them? This bot does just that!
+Ever felt like some discord messages were way too interesting when taken out of context, and you just had to keep an archive of them? This bot does just that!
 
 ## Credits
 Developed by Mert Akarca. Suggestions and contributions are welcome!
